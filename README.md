@@ -8,12 +8,12 @@ In present, vehicular traffic is increasing throughout the world, especially in 
 
 ## 📸 Research
 
-![](https://https://github.com/kadamankita/Automatic-Traffic-Management-System/blob/main/s1.png)
-![](https://https://github.com/kadamankita/Automatic-Traffic-Management-System/blob/main/s2.png)
-![](https://https://github.com/kadamankita/Automatic-Traffic-Management-System/blob/main/s3.png)
-![](https://https://github.com/kadamankita/Automatic-Traffic-Management-System/blob/main/s4.png)
-![](https://https://github.com/kadamankita/Automatic-Traffic-Management-System/blob/main/s5.png)
-![](https://https://github.com/kadamankita/Automatic-Traffic-Management-System/blob/main/s6.png)
+![](https://github.com/kadamankita/Automatic-Traffic-Management-System/blob/main/s1.png)
+![](https://github.com/kadamankita/Automatic-Traffic-Management-System/blob/main/s2.png)
+![](https://github.com/kadamankita/Automatic-Traffic-Management-System/blob/main/s3.png)
+![](https://github.com/kadamankita/Automatic-Traffic-Management-System/blob/main/s4.png)
+![](https://github.com/kadamankita/Automatic-Traffic-Management-System/blob/main/s5.png)
+![](https://github.com/kadamankita/Automatic-Traffic-Management-System/blob/main/s6.png)
 # Hardware requirements
 Arduino UNO R3
 Jumper cables
